@@ -56,10 +56,9 @@ Trade at Nova Exchange; [Nova Exchange](https://novaexchange.com/market/BTC_WHIP
 News
 ===================
 
-Cryptopia Exchange kicked us off by pretending I had requested to be removed. I had said it was okay to remove WHIPPED if they desired, after publicly crittiing the Cryptopia management double act of a naive "tactical" quest to be a leading exchange. I even went as far as suggesting it was not a good idea to call customers "wankers" or say "fuck off, we hate you". Nor is it clever to comment to people for not buying their Cryptopia shares.
+Cryptopia Exchange kicked us off by pretending I had requested to be removed. I had said it was okay to remove WHIPPED if they desired, after publicly criticizing the Cryptopia management double act of a naive "tactical" quest to be a leading exchange. I even went as far as suggesting it was not a good idea to call customers "wankers" or say "fuck off, we hate you". Nor is it clever to comment to people for not buying their Cryptopia shares.
 
 I specifically did not say I desire they remove BDSM-FETISH. Verbal and personal abuse followed from management when I pointed that fact out.
-
 
 
 
