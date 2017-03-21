@@ -5,13 +5,10 @@ BDSM-FETISH X11 Fully PoS
 Ticker: WHIPPED
 -------------
 
-Explorer
--------------
-
 [Explorer](http://explorer.bdsm-fetish.net:3001)
 ------
 
-Portsrpcport=8746; port=8745
+Ports: rpcport=8746; port=8745
 -------------
 
 
@@ -34,3 +31,6 @@ Of 850,000 stated coins on the Explorer, 300,000 were destroyed, 20,000 accident
 That results in about 430,000 WHIPPED available, nearly half of the coin count.
 
 ------
+
+Nova Exchange; [Nova Exchange](https://novaexchange.com/market/BTC_WHIPD/)
+------------- (less childish)
