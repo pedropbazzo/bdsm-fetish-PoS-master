@@ -78,7 +78,7 @@ https://github.com/bdsmc/Windows-Mac-OSX-Wallets
 Compiling Daemon: BDSM-FETISHd
 ------------
 
-There are various methods, the most simple is using Ubuntu or Debian 64 bit.
+There are various methods, the most simple is using Ubuntu 14x or Debian 7x 64 bit.
 
 Dependencies (if you need to start from the beginning):
 
