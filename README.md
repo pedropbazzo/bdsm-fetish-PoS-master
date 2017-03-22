@@ -7,7 +7,7 @@
 
 <p><div class="toc">
 <ul>
-<li><a href="#bdsm-fetish">BDSM-FETISH </a><ul>
+<li><a href="#bdsm-fetish">BDSM-FETISH Fully PoS </a><ul>
 <li><a href="#1-specs">1. Specs</a></li>
 <li><a href="#2-blockexplorer">2. Blockexplorer</a></li>
 <li><a href="#3-coin-count">3. Coin Count</a></li>
@@ -30,7 +30,7 @@
 <h2 id="1-specs">1. Specs</h2>
 
 <blockquote>
-  <p>Coin: BDSM-FETISH (X11 Algo)</p>
+  <p>Coin: BDSM-FETISH FULLY PoS (X11 Algo)</p>
   
   <p>Ticker: WHIPPED</p>
   
