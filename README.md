@@ -100,3 +100,25 @@ $ make -f makefile.unix
 $ strip BDSM-FETISHd
 
 $ ./BDSM-FETISHd
+
+---------
+
+Sample Minimalistic Server .conf
+------------
+
+$ nano /root/.BDSM-FETISH/BDSM-FETISH.conf
+
+
+daemon=1
+
+rpcusername=BDSM-FETISHrpc
+
+rpcpasssword=whateveryouaregivnwhensstartingtheserver
+
+rpcallowip=127.0.0.1
+
+rpcport=8746
+
+
+
+You can adddnode if you want to, and place the p2p port in the conf file. Some people like to add "server=1" and "listen=1".
