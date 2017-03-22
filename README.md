@@ -17,6 +17,15 @@ About 200 blocks are mined via staking every 24 hours.
 
 2 percent interest a year.
 
+
+------
+
+Blockexplorer
+------
+
+[Explorer](http:/explorer.bdsm-fetish.net:3001/)
+
+
 ------
 
 Coin Count:
@@ -49,7 +58,7 @@ Trade
 ------------- 
 
 
-Trade at Nova Exchange; [Nova Exchange](https://novaexchange.com/market/BTC_WHIPD/)
+Trade at Nova Exchange: [Nova Exchange](https://novaexchange.com/market/BTC_WHIPD/)
 
 
 -------------
