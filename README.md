@@ -70,3 +70,24 @@ Wallets, Win, OSX, Linux
 ------------
 
 https://github.com/bdsmc/Windows-Mac-OSX-Wallets
+
+
+-------------
+
+
+Compiling Daemon: BDSM-FETISHd
+------------
+
+There are various methods, the most simple is using Ubuntu or Debian 64 bit.
+
+Dependencies (if you need to start from the beginning):
+
+$ sudo apt-get install git build-essential libssl-dev libboost-all-dev libqrencode-dev libdb++-dev libminiupnpc-dev qt-sdk -y
+
+cd into dir/src
+
+$ make -f makefile.unix
+
+$ strip BDSM-FETISHd
+
+$ ./BDSM-FETISHd
