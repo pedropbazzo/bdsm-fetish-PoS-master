@@ -5,7 +5,7 @@ BDSM-FETISH Full PoS @ 2% per annum
 Specs
 -----
 
-Coin: BDSM-FETISH
+Coin: BDSM-FETISH (X11 Algo)
 
 Ticker: WHIPPED
 
