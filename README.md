@@ -15,6 +15,8 @@ p2p port: 8745
 
 About 200 blocks are mined via staking every 24 hours.
 
+2 percent interest eacy year
+
 ------
 
 Coin Count:
