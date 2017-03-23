@@ -15,8 +15,8 @@
 <li><a href="#5-trade">5. Trade</a></li>
 <li><a href="#6-news">6. News</a></li>
 <li><a href="#7-wallets">7. Wallets</a></li>
-<li><a href="#compiling-daemon-bdsm-fetishd">Compiling Daemon: BDSM-FETISHd</a></li>
-<li><a href="#8-sample-minimal-server-conf">8. Sample Minimal Server .conf</a></li>
+<li><a href="#8-compiling-daemon-bdsm-fetishd">Compiling Daemon: BDSM-FETISHd</a></li>
+<li><a href="#9-sample-minimal-server-conf">8. Sample Minimal Server .conf</a></li>
 </ul>
 </li>
 </ul>
@@ -99,7 +99,7 @@
 
 <hr>
 
-<h2 id="compiling-daemon-bdsm-fetishd">Compiling Daemon: BDSM-FETISHd</h2>
+<h2 id="8-compiling-daemon-bdsm-fetishd">Compiling Daemon: BDSM-FETISHd</h2>
 
 <p>There are various methods, the most simple is using Ubuntu 14x or Debian 7x 64 bit.</p>
 
@@ -123,7 +123,7 @@
 
 
 
-<h2 id="8-sample-minimal-server-conf">8. Sample Minimal Server .conf</h2>
+<h2 id="9-sample-minimal-server-conf">8. Sample Minimal Server type .conf</h2>
 
 <blockquote>
   <p>$  nano /root/.BDSM-FETISH/BDSM-FETISH.conf</p>
