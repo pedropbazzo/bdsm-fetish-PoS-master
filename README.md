@@ -99,7 +99,7 @@
 
 <hr>
 
-<h2 id="8-compiling-daemon-bdsm-fetishd">Compiling Daemon: BDSM-FETISHd</h2>
+<h2 id="8-compiling-daemon-bdsm-fetishd">8. Compiling Daemon: BDSM-FETISHd</h2>
 
 <p>There are various methods, the most simple is using Ubuntu 14x or Debian 7x 64 bit.</p>
 
@@ -123,7 +123,7 @@
 
 
 
-<h2 id="9-sample-minimal-server-conf">8. Sample Minimal Server type .conf</h2>
+<h2 id="9-sample-minimal-server-conf">9. Sample Minimal Server type .conf</h2>
 
 <blockquote>
   <p>$  nano /root/.BDSM-FETISH/BDSM-FETISH.conf</p>
@@ -136,12 +136,12 @@
   
   <p>rpcuser=BDSM-FETISHrpc</p>
   
-  <p>rpcpasssword=whateveryouaregivnwhensstartingtheserver</p>
+  <p>rpcpass=whateveryouaregivnwhensstartingtheserver</p>
   
   <p>rpcallowip=127.0.0.1</p>
   
   <p>rpcport=8746</p>
 </blockquote>
 
-<p><em>You can “adddnode=” if you want to, and place the p2p port in the conf file. Some people like to add “server=1” and “listen=1”.</em></p></div></body>
+<p><em>You can “addnode=” if you want to, and place the p2p port in the conf file. Some people like to add “server=1” and “listen=1”.</em></p></div></body>
 </html>
