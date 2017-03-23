@@ -15,8 +15,8 @@
 <li><a href="#5-trade">5. Trade</a></li>
 <li><a href="#6-news">6. News</a></li>
 <li><a href="#7-wallets">7. Wallets</a></li>
-<li><a href="#8-compiling-daemon-bdsm-fetishd">Compiling Daemon: BDSM-FETISHd</a></li>
-<li><a href="#9-sample-minimal-server-conf">8. Sample Minimal Server .conf</a></li>
+<li><a href="#8-compiling-daemon-bdsm-fetishd">8. Compiling Daemon: BDSM-FETISHd</a></li>
+<li><a href="#9-sample-minimal-server-conf">9. Sample Minimal Server .conf</a></li>
 </ul>
 </li>
 </ul>
