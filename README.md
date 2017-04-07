@@ -18,6 +18,7 @@
 <li><a href="#7-wallets">7. Wallets</a></li>
 <li><a href="#8-compiling-daemon-bdsm-fetishd">8. Compiling Daemon: BDSM-FETISHd</a></li>
 <li><a href="#9-sample-minimal-server-conf">9. Sample Minimal Server .conf</a></li>
+<li><a href="#10-Compiling Iquidus Explorer">10. Compiling Iquidus Explorer</a></li>
 </ul>
 </li>
 </ul>
@@ -68,17 +69,23 @@ The Explorer will be switched off, as there is no interest other than from a cou
 
 <p><strong>That results in about 430,000 WHIPPED available, nearly half of the coin count.</strong></p>
 
+<p>See above: The link will not be live from now on.</p>
+
 <blockquote>
   <p>Burn Address:</p>
   
   <p><a href="http://explorer.bdsm-fetish.net:3001/address/BFTheseCoinsAreDestroyedXXXXZ9jn9o">BFTheseCoinsAreDestroyedXXXXZ9jn9o</a></p>
 </blockquote>
 
+<p>See above: The link will not be live from now on.</p>
+
 <hr>
 
 <h2 id="4-connections">4. Connections</h2>
 
 <p>For Nodes (check the Explorer “network”): <a href="http://explorer.bdsm-fetish.net:3001/network">Explorer Network</a></p>
+
+<p>See above: The link will not be live from now on.</p>
 
 <hr>
 
@@ -164,5 +171,13 @@ The Explorer will be switched off, as there is no interest other than from a cou
   <p>rpcport=8746</p>
 </blockquote>
 
-<p><em>You can “addnode=” if you want to, and place the p2p port in the conf file. Some people like to add “server=1” and “listen=1”.</em></p></div></body>
+<p><em>You can “addnode=” if you want to, and place the p2p port in the conf file. Some people like to add “server=1” and “listen=1”.</em></p>
+
+<hr>
+
+<h2 id="10-Compiling Iquidus Explorer">10. Compiling Iquidus Explorer</h2>
+
+<p>I will put instructions up for compiling a simple Blockexplorer, and the right BDSM-FETISH settings, should anyone desire to use them</p>
+
+</div></body>
 </html>
