@@ -10,7 +10,7 @@
 <li><a href="#bdsm-fetish">BDSM-FETISH Fully PoS </a><ul>
 <li><a href="#1-specs">1. Specs</a></li>
 <li><a href="#2-blockexplorer">2. Blockexplorer</a></li>
-<li><a href="#2a-blockexplorer">2.1 Blockexplorer</a></li>
+<li><a href="#2a-blockexplorer">2.1 Blockexplorer and closing my connected nodes</a></li>
 <li><a href="#3-coin-count">3. Coin Count</a></li>
 <li><a href="#4-connections">4. Connections</a></li>
 <li><a href="#5-trade">5. Trade</a></li>
@@ -50,9 +50,11 @@
 
 <p><a href="http://explorer.bdsm-fetish.net:3001">Explorer</a></p>
 
+<p>See below: The above link will not be live from now on.</p>
+
 <hr>
 
-<h2 id="2a-blockexplorer">2.1 Blockexplorer</h2>
+<h2 id="2a-blockexplorer">2.1 Blockexplorer and closing my connected nodes</h2>
 
 The Explorer will be switched off, as there is no interest other than from a couple of parties. So they can pay.
 
