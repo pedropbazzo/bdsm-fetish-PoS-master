@@ -10,6 +10,7 @@
 <li><a href="#bdsm-fetish">BDSM-FETISH Fully PoS </a><ul>
 <li><a href="#1-specs">1. Specs</a></li>
 <li><a href="#2-blockexplorer">2. Blockexplorer</a></li>
+<li><a href="#2a-blockexplorer">2.1 Blockexplorer</a></li>
 <li><a href="#3-coin-count">3. Coin Count</a></li>
 <li><a href="#4-connections">4. Connections</a></li>
 <li><a href="#5-trade">5. Trade</a></li>
@@ -21,7 +22,7 @@
 </li>
 </ul>
 </div>
-</p>
+
 
 <hr>
 
@@ -48,6 +49,12 @@
 <h2 id="2-blockexplorer">2. Blockexplorer</h2>
 
 <p><a href="http://explorer.bdsm-fetish.net:3001">Explorer</a></p>
+
+<hr>
+
+<h2 id="2a-blockexplorer">2.1 Blockexplorer</h2>
+
+The Explorer will be switched off, as there is no interest other than from a couple of parties. So they can pay.
 
 <hr>
 
@@ -78,7 +85,7 @@
 <p>Trade at Nova Exchange: <a href="https://novaexchange.com/market/BTC_WHIPD/">Nova Exchange</a></p>
 
 <blockquote>
-  <p>Current Price: Sell at 2170 Sats; Buy at 2000 Sats</p>
+  <p>Current Price: Sell at 1000 Sats; Buy at 15 Sats</p>
 </blockquote>
 
 <hr>
