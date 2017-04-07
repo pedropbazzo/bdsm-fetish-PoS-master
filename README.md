@@ -89,6 +89,18 @@
 
 <p>I specifically did not say I desire they remove BDSM-FETISH. Verbal and personal abuse followed from management when I pointed that fact out.</p>
 
+<p>I always suspected Cryptopia was selling behind peopleś backs, and staking coins. Bizarrely, it is still attached to the network.</p>
+
+<hr>
+
+<p><img src="https://cdn.pbrd.co/images/1f441jdI6.png" alt="WHIPPED" title="Cryptopia IP Block"></p>
+<br>
+<br>
+<p><img src="https://cdn.pbrd.co/images/1f7LojOkd.png" alt="WHIPPED" title="Cryptopia Staking Why?"></p>
+<br>
+<br>
+<p><img src="https://cdn.pbrd.co/images/4MzkS9j.png" alt="WHIPPED" title="Stolen Lost Bought Whatever Cryptopia"></p>
+
 <hr>
 
 <h2 id="7-wallets">7. Wallets</h2>
