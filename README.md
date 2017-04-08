@@ -179,5 +179,10 @@ The Explorer will be switched off, as there is no interest other than from a cou
 
 <p>I will put instructions up for compiling a simple Blockexplorer, and the right BDSM-FETISH settings, should anyone desire to use them</p>
 
+<p>In fact, here is the link:</p>
+
+<p><a href="https://github.com/bdsmc/Iquidus-Settings-BDSM-FETISH/">Iquidus-Settings-BDSM-FETISH</a></p>
+
+
 </div></body>
 </html>
